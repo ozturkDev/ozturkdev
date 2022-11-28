@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmet Öztürk @ozturkdev
 - 👀 I'm interested in Frontend Development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me ahmetaress@gmail.com
 
 <!---
